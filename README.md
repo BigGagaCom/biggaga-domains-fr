@@ -34,7 +34,7 @@ Ce dépôt peut être utilisé pour :
 
 Pour toute demande concernant un domaine ou un partenariat : **domains@biggaga.com**
 
-## 🌍 Explore BigGaga Domains in Other Languages
+## 🌍 Découvrez les domaines BigGaga dans d'autres langues
 
 - [English (EN)](https://github.com/BigGagaCom/biggaga-domains-en)
 - [Deutsch (DE)](https://github.com/BigGagaCom/biggaga-domains-de)
